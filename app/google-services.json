@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "969777701948",
+    "firebase_url": "https://test4-85b10.firebaseio.com",
+    "project_id": "test4-85b10",
+    "storage_bucket": "test4-85b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969777701948:android:c594a78242593ed3",
+        "android_client_info": {
+          "package_name": "com.example.shrihari.test01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969777701948-pi8vr7ioe6oo6jm7744gg9595v6jicn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeiKklXZgBdlfnUoP_Dy45sdrxKZai4sc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
